@@ -1,5 +1,5 @@
 # person-presence-detection
-An Object Detection Model that can detect the presence of a person.
+A Computer Vision Object Detection Model that can detect the presence of a person.
 
 ![image](https://user-images.githubusercontent.com/119089252/228236052-aa976a5b-8c12-460e-8ae7-11953191a9f0.png)
 
